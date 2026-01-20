@@ -1,0 +1,8 @@
+{
+  "name": "UniTrace AI - Universal Device Tracker & Creator",
+  "description": "A multi-platform application to track lost devices, generate device linking codes, and leverage Gemini AI for image editing, generation, and smart location search.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
